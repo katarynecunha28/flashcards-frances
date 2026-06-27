@@ -1,10 +1,8 @@
-# 🇫🇷 Gerador de Flashcards de Francês em PDF
+# Gerador de Flashcards de Francês em PDF
 
 Este projeto é um script automatizado em Python que gera **flashcards de vocabulário em francês** prontos para impressão em formato A4. Ele foi desenhado para estudantes que desejam memorizar vocabulário de forma visual, auditiva e tátil.
 
 O grande diferencial é que cada card possui um **QR Code dinâmico** que aponta diretamente para a pronúncia correta da palavra no site **Forvo**, permitindo que você treine a audição e a fala instantaneamente ao escanear com o celular.
-
----
 
 ## Funcionalidades
 
@@ -13,8 +11,6 @@ O grande diferencial é que cada card possui um **QR Code dinâmico** que aponta
 - **QR Code de Pronúncia Integrado:** Gera automaticamente um QR Code ligado à busca fonética da palavra no Forvo.
 - **Suporte Fonético:** Inclui uma aproximação fonética adaptada para o português abaixo da tradução oficial.
 - **Fallback para Ilustrações:** Se você não tiver uma imagem pronta para a palavra na sua pasta, o script gera automaticamente um card minimalista e elegante usando a inicial da palavra dentro de um círculo colorido.
-
----
 
 ## Layout e Visual do Card 🎨
 
