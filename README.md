@@ -13,6 +13,6 @@ O grande diferencial é que cada card possui um **QR Code dinâmico** que aponta
 - **Fallback para Ilustrações:** Se você não tiver uma imagem pronta para a palavra na sua pasta, o script gera automaticamente um card minimalista e elegante usando a inicial da palavra dentro de um círculo colorido.
 
 ## Layout e Visual do Card 🎨
-
-<img width="528" height="497" alt="image" src="https://github.com/user-attachments/assets/53566e2b-38fb-49d8-a4b5-c17998fd80ba" />
-
+<p align="center">
+  <img width="528" height="497" alt="image" src="https://github.com/user-attachments/assets/53566e2b-38fb-49d8-a4b5-c17998fd80ba" />
+</p>
