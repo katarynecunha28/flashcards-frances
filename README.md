@@ -7,7 +7,7 @@ O grande diferencial é que cada card possui um **QR Code dinâmico** que aponta
 ## Funcionalidades
 
 - **Layout Otimizado para Impressão:** Organiza perfeitamente os cards em uma grade 3x3 em páginas A4, aproveitando ao máximo o papel.
-- **Categorização por Cores (Paletas Inteligentes):** Cada categoria gramatical ou temática possui um esquema de cores exclusivo para ajudar na memória espacial e visual (ex: Animais em Laranja, Comidas em Verde, Lugares em Azul).
+- **Categorização por Cores:** Cada categoria gramatical ou temática possui um esquema de cores exclusivo para ajudar na memória espacial e visual (ex: Animais em Laranja, Comidas em Verde, Lugares em Azul).
 - **QR Code de Pronúncia Integrado:** Gera automaticamente um QR Code ligado à busca fonética da palavra no Forvo.
 - **Suporte Fonético:** Inclui uma aproximação fonética adaptada para o português abaixo da tradução oficial.
 - **Fallback para Ilustrações:** Se você não tiver uma imagem pronta para a palavra na sua pasta, o script gera automaticamente um card minimalista e elegante usando a inicial da palavra dentro de um círculo colorido.
