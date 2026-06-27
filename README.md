@@ -16,6 +16,7 @@ O grande diferencial é que cada card possui um **QR Code dinâmico** que aponta
 
 ---
 
-## 🎨 Layout e Visual do Card
+## Layout e Visual do Card 🎨
 
-Cada card gerado possui uma estrutura visual limpa e profissional:
+<img width="528" height="497" alt="image" src="https://github.com/user-attachments/assets/53566e2b-38fb-49d8-a4b5-c17998fd80ba" />
+
